@@ -9,3 +9,26 @@ package-lock.json
 ui/.vscode/
 
 node_modules/
+docs/src/examples/QTable/PopupEditing.vue
+docs/src/examples/QTable/ResponsiveDense.vue
+docs/src/examples/QTable/ResponsiveGrid.vue
+docs/src/examples/QTable/SelectionSlots.vue
+docs/src/examples/QTable/SelectionSlotsRange.vue
+docs/src/examples/QTable/Separators.vue
+docs/src/examples/QTable/SingleSelection.vue
+docs/src/examples/QTable/SlotBody.vue
+docs/src/examples/QTable/SlotBodyCell.vue
+docs/src/examples/QTable/SlotBodyCellName.vue
+docs/src/examples/QTable/SlotHeader.vue
+docs/src/examples/QTable/SlotHeaderCell.vue
+docs/src/examples/QTable/SlotHeaderCellName.vue
+docs/src/examples/QTable/StickyColumn.vue
+docs/src/examples/QTable/StickyHeader.vue
+docs/src/examples/QTable/StickyHeaderAndColumn.vue
+docs/src/examples/QTable/StickyHeaderAndLastColumn.vue
+docs/src/examples/QTable/StickyLastColumn.vue
+docs/src/examples/QTable/Synchronizing.vue
+docs/src/examples/QTable/VirtscrollBasic.vue
+docs/src/examples/QTable/VirtscrollDynamic.vue
+docs/src/examples/QTable/VirtscrollExpandedRow.vue
+docs/src/examples/QTable/VirtscrollMultipleRows.vue
